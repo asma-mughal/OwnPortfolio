@@ -1,0 +1,46 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/Screenshot_20.png",
+            "title": "Landing Page",
+            "description": "Landing Page for company using advance animations",
+            "url": "https://vercel.com/asma-mughal/final-nasia"
+        },
+        {
+            "cover": "/portfolio/project4.png",
+            "title": "E-Health Platform",
+            "description": "MultiLanguage Web App to manage health resources efficiently",
+            "url": "https://omigahealth.netlify.app/    "
+        },
+        {
+            "cover": "/portfolio/Screenshot_22.png",
+            "title": "Portfolio",
+            "description": "Website to display information related to particular instructor",
+            "url": "https://portfolio-xaho.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/project2.png",
+            "title": "Automative Industry",
+            "description": "A platform to sell Cars",
+            "url": "https://show-room-weld.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/project5.png",
+            "title": "Software Enterprise",
+            "description": "Web App that covers all the software products primarily build by them",
+            "url": "https://deep3solutions.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/project3.png",
+            "title": "UI Design",
+            "description": "UI design for E-health platform",
+            "url": "https://www.figma.com/file/fr7Dz7oCUk5HjGBz5JmIDO/FigmaLogo?node-id=0%3A1&t=V1Z25ZCeheYnzxAo-0"
+        },
+        {
+            "cover": "/portfolio/Screenshot_21.png",
+            "title": "Blog App",
+            "description": "Simple App to pratice NextJS",
+            "url": "https://blog-ayxsw6paq-asma-mughal.vercel.app/q"
+        }
+    ]
+}
